@@ -18,3 +18,7 @@ Module 6 - Decision Tree Regression & Random Forest Regression
 ================== Classification Models ==================
 
 Module 1 - Logistic Regression 
+
+Module 2 - K Nearest Neighbors
+
+Module 3 - Support Vector Machine
