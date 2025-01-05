@@ -24,3 +24,7 @@ Module 2 - K Nearest Neighbors
 Module 3 - Support Vector Machine
 
 Module 4 - Kernel SVM(rbf kernel)
+
+================== Association Rule Learning Models ==================
+
+Module 1 - Apriori
