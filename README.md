@@ -28,3 +28,11 @@ Module 4 - Kernel SVM(rbf kernel)
 ================== Association Rule Learning Models ==================
 
 Module 1 - Apriori
+
+================== Natural Language Processing Model ==================
+
+Module 1 - Gaussian Naive Bayes
+
+================== Deep Learning Models ==================
+
+Module 1 - Artificial Neural Networks
