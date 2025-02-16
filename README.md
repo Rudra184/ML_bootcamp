@@ -36,3 +36,15 @@ Module 1 - Gaussian Naive Bayes
 ================== Deep Learning Models ==================
 
 Module 1 - Artificial Neural Networks
+
+Module 2 - Convolutional Neural Networks
+(extract "dataset.zip" folder before image preprocessing)
+
+================== Dimensionality Reduction  ==================
+
+Module 1 - Principal Component Analysis
+
+Module 2 - Linear Discriminant Analysis
+
+Module 3 - Kernel PCA
+
